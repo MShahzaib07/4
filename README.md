@@ -46,4 +46,3 @@ Open HYROCOPT HACK.exe.
 Open Launcher and launch Escape from Tarkov.
 
 Enjoy
-# PASSWORD FOR ZIP ARCHIVE: 23
